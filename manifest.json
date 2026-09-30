@@ -1,0 +1,45 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-touchdesigner",
+  "versions": [
+    {
+      "commit": "88a7a7884e5eda33cfe4b1dd5e69df7cb15d5898",
+      "parsed_at": "2026-09-30T07:05:21.238489+00:00",
+      "tag": "main",
+      "filetree": "filetree/88a7a7884e5eda33cfe4b1dd5e69df7cb15d5898.nq.gz",
+      "blobs": [
+        "blob/97c2dea80bd361522076ff3952aec5b242520b58.nq.gz",
+        "blob/75410e73319c72cd3e991a501c5455eb78f38375.nq.gz",
+        "blob/d4b165e7499cacf9192600371d84871350d78129.nq.gz",
+        "blob/f37a84891541579965907aed31602f41e61402d9.nq.gz",
+        "blob/74e756ccb24ddee46d0d0f73573ed766205c6f98.nq.gz",
+        "blob/6ff7b08f7552c14d7eb6df72b92df7558c043d62.nq.gz",
+        "blob/e5837de6a38397afe3e8523fb533e13b4bb997ed.nq.gz",
+        "blob/6aa716cb9a21e25d7c8cd5c7925dd471cbdc9ccf.nq.gz",
+        "blob/048e49554552ee7a531ac4e95a253622b9ced1bf.nq.gz",
+        "blob/9b2fb5863f53815c3e7c5b9b7a9c5e7f46612509.nq.gz",
+        "blob/a5bfdffeb718e2e5a170283c33d40045796dec7f.nq.gz",
+        "blob/7d1e322a4ea52fd038fd36a4127ede05de4d974d.nq.gz",
+        "blob/e18b27749039383bd233220890be1e60bc38619f.nq.gz",
+        "blob/23cbbd850a349fe87f12a07c26ff6b227b81cddc.nq.gz",
+        "blob/ec90076cb2bbe4f210359cacd69e912b3b331635.nq.gz",
+        "blob/4bd9302327b209524ce28deb9e9c6f93b35142d8.nq.gz",
+        "blob/f2955110b0ef4cd9b7ea0f7ecaee3c3f6c7eb29a.nq.gz",
+        "blob/cb04fd54d57356d540c91460006b6ecf09bcff4b.nq.gz",
+        "blob/0e0f077cf86df663a1edc86e8e6d7144d8b7e4b4.nq.gz",
+        "blob/5b9cd3da3d97559e4de5d8ceeb3dcada3d5d77d4.nq.gz",
+        "blob/ca994352129ed9018fbb27689ba40e0a82b7aaed.nq.gz",
+        "blob/bec68e33cf902b3de41a1ce225026d7ddf661b71.nq.gz",
+        "blob/0e030204d55f8b2b23fe6f2023cb869a4d0641bb.nq.gz",
+        "blob/ff54a3fb02afcd5773f91da10d421579de389f62.nq.gz",
+        "blob/b9498f1fe55d881c0ad512c3b3ad6d571f1de2c6.nq.gz",
+        "blob/fd5257e1e843355c1cfa1cf81785275073c2eacc.nq.gz",
+        "blob/2ce55dd5e8658df5991156f1eb13c4ba6fabc7ad.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
